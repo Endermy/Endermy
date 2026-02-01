@@ -29,8 +29,10 @@
 ### 资源分享
 
 我深感作为程序员的最大阻碍是所拥有的教育资源不足,虽然网上的教程满天飞,遗憾的是这些知识良莠不齐,对他们进行筛选是一份非常消耗精力的事情,因此,我希望把我所收集的部分优质资源转发,以达到传承知识的目的
-`https://mumuserver.com`
-`https://space.bilibili.com/347846195/favlist?fid=707114695&ftype=create` `https://www.runoob.com/cplusplus/cpp-tutorial.html`
+
+* https://mumuserver.com
+* https://space.bilibili.com/347846195/favlist?fid=707114695&ftype=create
+* https://www.runoob.com/cplusplus/cpp-tutorial.html
 
 ---
 
