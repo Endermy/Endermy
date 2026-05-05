@@ -14,6 +14,17 @@
 
 ### 曾获奖项
 
+* 2017年GOCODE程序小先锋铜奖
+* 2017年GOCODE程序小先锋银奖
+* 2017年GOCODE程序小先锋金奖
+* 2018年ROBOT CHALLENGE 2018任务赛亚军
+* 2018年ROBOT CHALLENGE 2018足球赛季军
+* 2018年ROBOT CHALLENGE 2018全场总冠军
+* 2018年HKMO & AIMO OPEN金奖
+* 2018年AIMO铜奖
+* 2019年HKMO铜奖
+* 2019年HKMO银奖
+* 2019年HKOI银奖
 * 2021年MiniRobocon亚军
 * 2021年MiniRobocon最佳工程设计奖
 * 2022年MATE ROV水底机器人大赛Navigator组第一名
